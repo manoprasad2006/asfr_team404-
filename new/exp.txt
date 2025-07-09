@@ -1,2 +1,2 @@
 line to solve
-line formed to create a conflict
+line formed to create a (merge conflict)
