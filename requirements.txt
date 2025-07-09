@@ -1,7 +1,7 @@
 opencv-python==4.4.0.40
 tensorflow==2.5.0
-hii 
-
-
-hello dont 
-myname is me
+numpy==1.21.0
+scikit-learn==1.0.0
+matplotlib==3.5.0
+# This is the main branch version
+# Added new dependencies for better performance
