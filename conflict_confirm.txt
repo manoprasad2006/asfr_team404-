@@ -1,2 +1,9 @@
 - Welcome to Team 404!
 + Welcome to Team 404 - Merge Conflict Edition 🔥
+<<<<<<< HEAD
+
+
+Welcome to Team 404! This is from TRIGGER-CONFLICT branch.
+=======
+confirm conflict 
+>>>>>>> 89672645de1e0c8c219e2ad9a5b078cc8db5113d
