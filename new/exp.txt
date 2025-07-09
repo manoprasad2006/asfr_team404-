@@ -1,1 +1,2 @@
 line to solve
+line formed to create a conflict
